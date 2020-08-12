@@ -1,6 +1,9 @@
-# Formaçao Node.js
+# Formação Node.js
 
-## Repositório do curso.
+Repositório do curso.
 
-[x] HTTP
-[x] Express
+### Módulos do cursos
+
+- [x] HTTP
+- [x] Express
+- [x] Sql
